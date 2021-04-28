@@ -1,0 +1,35 @@
+{
+    "dimensionReflect" : {
+        "name" : "月份"
+    },
+    "data" : {
+        "2021-03" : [
+            {"name" : "1月", "value" : 11 },
+            {"name" : "2月", "value" : 32 },
+            {"name" : "3月", "value" : 53},
+            {"name" : "4月", "value" : 70},
+            {"name" : "5月", "value" : 9},
+            {"name" : "6月", "value" : 11 },
+            {"name" : "7月", "value" : 1},
+            {"name" : "8月", "value" : 15},
+            {"name" : "9月", "value" : 4},
+            {"name" : "10月", "value" : 100},
+            {"name" : "11月", "value" : 12},
+            {"name" : "12月", "value" : 12}
+        ],
+        "2021-04" : [
+            {"name" : "1月", "value" : 10 },
+            {"name" : "2月", "value" : 11 },
+            {"name" : "3月", "value" : 12 },
+            {"name" : "4月", "value" : 13 },
+            {"name" : "5月", "value" : 14 },
+            {"name" : "6月", "value" : 15 },
+            {"name" : "7月", "value" : 16 },
+            {"name" : "8月", "value" : 17 },
+            {"name" : "9月", "value" : 18 },
+            {"name" : "10月", "value" : 19 },
+            {"name" : "11月", "value" : 20 },
+            {"name" : "12月", "value" : 21 }
+        ]
+    }
+}
